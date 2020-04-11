@@ -1,0 +1,10 @@
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample\bin\Debug\netcoreapp2.1\TestSquareExample.deps.json
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample\bin\Debug\netcoreapp2.1\TestSquareExample.runtimeconfig.json
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample\bin\Debug\netcoreapp2.1\TestSquareExample.runtimeconfig.dev.json
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample\bin\Debug\netcoreapp2.1\TestSquareExample.dll
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample\bin\Debug\netcoreapp2.1\TestSquareExample.pdb
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample\obj\Debug\netcoreapp2.1\TestSquareExample.AssemblyInfoInputs.cache
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample\obj\Debug\netcoreapp2.1\TestSquareExample.AssemblyInfo.cs
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample\obj\Debug\netcoreapp2.1\TestSquareExample.dll
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample\obj\Debug\netcoreapp2.1\TestSquareExample.pdb
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample\obj\Debug\netcoreapp2.1\TestSquareExample.csprojAssemblyReference.cache

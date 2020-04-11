@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "TestSquareExample/1.0.0": {
+        "runtime": {
+          "TestSquareExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestSquareExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

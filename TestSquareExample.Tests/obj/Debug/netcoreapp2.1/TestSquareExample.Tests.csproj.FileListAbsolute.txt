@@ -1,0 +1,16 @@
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\bin\Debug\netcoreapp2.1\TestSquareExample.Tests.deps.json
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\bin\Debug\netcoreapp2.1\TestSquareExample.Tests.runtimeconfig.json
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\bin\Debug\netcoreapp2.1\TestSquareExample.Tests.runtimeconfig.dev.json
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\bin\Debug\netcoreapp2.1\TestSquareExample.Tests.dll
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\bin\Debug\netcoreapp2.1\TestSquareExample.Tests.pdb
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\bin\Debug\netcoreapp2.1\TestSquareExample.dll
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\bin\Debug\netcoreapp2.1\TestSquareExample.pdb
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\obj\Debug\netcoreapp2.1\TestSquareExample.Tests.csprojAssemblyReference.cache
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\obj\Debug\netcoreapp2.1\TestSquareExample.Tests.AssemblyInfoInputs.cache
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\obj\Debug\netcoreapp2.1\TestSquareExample.Tests.AssemblyInfo.cs
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\obj\Debug\netcoreapp2.1\TestSquareExample.Tests.csproj.CopyComplete
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\obj\Debug\netcoreapp2.1\TestSquareExample.Tests.dll
+C:\Users\overl\source\repos\TestSquareExample\TestSquareExample.Tests\obj\Debug\netcoreapp2.1\TestSquareExample.Tests.pdb
